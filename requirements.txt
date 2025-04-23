@@ -7,3 +7,4 @@ opencv-python
 mtcnn
 tensorflow
 opencv-python-headless
+keras-applications
