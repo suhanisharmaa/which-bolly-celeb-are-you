@@ -1,0 +1,9 @@
+keras-vggface
+numpy
+scikit-learn
+streamlit
+pillow
+opencv-python
+mtcnn
+tensorflow
+opencv-python-headless
