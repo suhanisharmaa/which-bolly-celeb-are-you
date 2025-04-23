@@ -3,8 +3,6 @@ numpy
 scikit-learn
 streamlit
 pillow
-opencv-python
+opencv-python-headless  # Avoids GUI-related errors
 mtcnn
 tensorflow
-opencv-python-headless
-keras-applications
