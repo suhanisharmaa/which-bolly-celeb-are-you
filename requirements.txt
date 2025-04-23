@@ -1,9 +1,7 @@
 keras-vggface
-tensorflow
-keras-applications
 numpy
 scikit-learn
 streamlit
 pillow
-opencv-python-headless  # Prefer headless for Streamlit deployments
+opencv-python  # Prefer headless for Streamlit deployments
 mtcnn
